@@ -79,7 +79,7 @@ export default function Home() {
               ex
             </motion.span>
             <motion.video
-              src="https://0o4pg1fpby.ufs.sh/f/RSbfEU0J8DcdoT0Oke3BV7pR2kHdOZDN6Mjc8tXeiLQzrPxY"
+              src="https://0o4pg1fpby.ufs.sh/f/RSbfEU0J8Dcd0nEhPNpXUAepfRY8WhTLzKS95uwHV47Jiavg"
               alt="O"
               className="mx-2 inline-block align-middle"
               style={{ height: "44px" }}
